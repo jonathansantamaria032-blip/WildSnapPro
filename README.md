@@ -541,4 +541,4 @@ Este proyecto fue desarrollado con fines educativos para la asignatura de Desarr
 **Asignatura:** Desarrollo de Aplicaciones Móviles  
 **Profesor:** M.C. Leonel González Vidales  
 **Última actualización:** 14 de noviembre 2025  
-**Versión:** 1.0.0
+**Versión:** 1.0.0 
